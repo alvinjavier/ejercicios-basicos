@@ -11,7 +11,7 @@ prompt.get ( ['valor1'], function (err, result) {
             console.log ("El número es primo");
             } 
             else {
-            console.log ("El número no es primote");
+            console.log ("El número no es primo");
             }
 
 
